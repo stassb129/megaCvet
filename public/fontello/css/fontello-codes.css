@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+ 
+.icon-home:before { content: '\2302'; } /* '⌂' */
+.icon-mail:before { content: '\2709'; } /* '✉' */
+.icon-location:before { content: '\e724'; } /* '' */
+.icon-shopping-bag:before { content: '\f290'; } /* '' */
+.icon-facebook:before { content: '\f30c'; } /* '' */
+.icon-instagram:before { content: '\f32d'; } /* '' */
+.icon-user:before { content: '👤'; } /* '\1f464' */
+.icon-credit-card:before { content: '💳'; } /* '\1f4b3' */
+.icon-phone:before { content: '📞'; } /* '\1f4de' */
+.icon-search:before { content: '🔍'; } /* '\1f50d' */
+.icon-truck:before { content: '🚚'; } /* '\1f69a' */
