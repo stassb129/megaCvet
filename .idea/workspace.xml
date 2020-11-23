@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9242ba3f-d3d0-48af-ba34-24c167318c26" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ShoppingPanel/Card/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/ShoppingPanel/Card/Card.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ShoppingPanel/Card/card.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/components/ShoppingPanel/Card/card.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ShoppingPanel/ShoppingPanel.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/ShoppingPanel/ShoppingPanel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ShoppingPanel/shoppingPanel.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/components/ShoppingPanel/shoppingPanel.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/globals.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +67,7 @@
       <workItem from="1605897645398" duration="706000" />
       <workItem from="1605947334880" duration="86000" />
       <workItem from="1605947463812" duration="1009000" />
-      <workItem from="1606108070358" duration="18437000" />
+      <workItem from="1606108070358" duration="18647000" />
     </task>
     <servers />
   </component>
