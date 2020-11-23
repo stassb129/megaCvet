@@ -1,6 +1,7 @@
 import MySlider from "../slider/MySlider";
 import css from './shoppingPanel.module.scss'
 import Sale from "./Sale/Sale";
+import Card from "./Card/Card";
 export default function ShoppingPanel() {
     return (
         <section>
@@ -8,6 +9,11 @@ export default function ShoppingPanel() {
                 <MySlider/>
                 <Sale/>
             </div>
+
+            <div className={css.cards}>
+                <Card />
+            </div>
+
 
 
 

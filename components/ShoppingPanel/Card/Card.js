@@ -1,8 +1,13 @@
 import css from './card.module.scss'
-export default function ShoppingPanel() {
-    return (
-            <div className={css.sliderSection}>
 
+export default function Card() {
+    return (
+        <div className={css.card}>
+            <div className={css.cardBg}></div>
+            <div className={css.cardDescription}>
+                <p>Что-то интересное</p>
+                <h4>Цветы</h4>
             </div>
+        </div>
     )
 }
