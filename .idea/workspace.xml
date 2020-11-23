@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9242ba3f-d3d0-48af-ba34-24c167318c26" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/styles/globals.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/next-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/megaCvet.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/MyHead.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/MyHead.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/global/header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/global/header/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/global/header/header.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/components/global/header/header.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/slider/MySlider.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/slider/MySlider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/slider/mySlider.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/components/slider/mySlider.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/globals.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +49,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -70,6 +72,10 @@
       <workItem from="1605561916338" duration="1821000" />
       <workItem from="1605628088007" duration="3559000" />
       <workItem from="1605639005912" duration="87000" />
+      <workItem from="1605897645398" duration="706000" />
+      <workItem from="1605947334880" duration="86000" />
+      <workItem from="1605947463812" duration="1009000" />
+      <workItem from="1606108070358" duration="14134000" />
     </task>
     <servers />
   </component>

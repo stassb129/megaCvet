@@ -1,5 +1,4 @@
 import css from './header.module.scss'
-import MySlider from "../../slider/MySlider";
 
 export default function Header() {
     return (
@@ -37,8 +36,6 @@ export default function Header() {
                         <li className={css.menuItem}><div></div>Какие-то цветы</li>
                     </ul>
             </div>
-
-            <MySlider/>
 
         </header>
     )

@@ -1,0 +1,13 @@
+@import "styles/variables";
+
+.sliderSection {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+@media (max-width: 1000px) {
+  .sliderSection {
+    flex-direction: column;
+  }
+}
