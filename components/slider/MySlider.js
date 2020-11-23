@@ -18,7 +18,6 @@ export default function MySlider() {
     return (
             <div className={css.slider}>
                 <Slider {...settings} >
-
                     <div className={css.item}>
                         <img src="/images/slider/1.jpg" alt=""/>
                         <div className={css.description}>
