@@ -1,0 +1,38 @@
+@import "styles/variables";
+
+.tabs{
+  width: 60%;
+  margin: 35px auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.tab{
+  cursor: pointer;
+  padding: 18px 1px;
+  position: relative;
+  transition: 0.3s color;
+  font-size: 1.3em;
+  color: #292929;
+  font-weight: bold;
+  overflow: hidden;
+
+  &::before{
+    transition: 0.3s bottom, 0.3s background-color;
+    content: '';
+    position: absolute;
+    bottom: -1px;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background-color: rgba(#303030, 0);
+  }
+
+  &:hover{
+    &::before{
+      bottom: 10px;
+      background-color: rgba(#303030, 1);
+    }
+    color: $main_color;
+  }
+}
