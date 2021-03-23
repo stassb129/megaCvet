@@ -1,22 +1,22 @@
 import css from './tabs.module.scss'
 import {useState} from "react";
 
-function Card(props) {
-    const content = props.tab
-    if (content === 'first') {
-        return (
-            <div>
-                Тут выводятся популярные...
-            </div>
-        )
-    } else if (content === 'second') {
-        return (
-            <div>
-                тута выводятся новые поступления...
-            </div>
-        )
-    }
-}
+// function SliderCard(props) {
+//     const content = props.tab
+//     if (content === 'first') {
+//         return (
+//             <div>
+//                 Тут выводятся популярные...
+//             </div>
+//         )
+//     } else if (content === 'second') {
+//         return (
+//             <div>
+//                 тута выводятся новые поступления...
+//             </div>
+//         )
+//     }
+// }
 
 export default function Tabs(props) {
     const [tab, setTab] = useState('first')
@@ -29,8 +29,6 @@ export default function Tabs(props) {
                 <a className={css.tab}>Бестселлеры</a>
                 <a className={css.tab}>Специальное</a>
             </div>
-
-            <Card tab={tab}/>
         </div>
     )
 }

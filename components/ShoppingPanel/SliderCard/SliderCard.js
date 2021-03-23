@@ -1,6 +1,6 @@
-import css from './card.module.scss'
+import css from './slidercard.module.scss'
 
-export default function Card() {
+export default function SliderCard() {
     return (
         <div className={css.card}>
             <div className={css.cardBg} style={{background: "url(\"/images/cards/1.jpg\")"}}></div>

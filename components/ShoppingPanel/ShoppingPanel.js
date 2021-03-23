@@ -1,7 +1,7 @@
-import MySlider from "../slider/MySlider";
+import MySlider from "../Slider/MySlider";
 import css from './shoppingPanel.module.scss'
 import Sale from "./Sale/Sale";
-import Card from "./Card/Card";
+import SliderCard from "./SliderCard/SliderCard";
 
 export default function ShoppingPanel() {
     return (
@@ -12,10 +12,10 @@ export default function ShoppingPanel() {
             </div>
 
             <div className={css.cards}>
-                <Card/>
-                <Card/>
-                <Card/>
-                <Card/>
+                <SliderCard/>
+                <SliderCard/>
+                <SliderCard/>
+                <SliderCard/>
             </div>
 
 

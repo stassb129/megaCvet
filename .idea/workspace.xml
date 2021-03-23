@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="9242ba3f-d3d0-48af-ba34-24c167318c26" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ShoppingPanel/Card/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/ShoppingPanel/SliderCard/SliderCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ShoppingPanel/Card/card.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/components/ShoppingPanel/SliderCard/slidercard.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ShoppingPanel/ShoppingPanel.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/ShoppingPanel/ShoppingPanel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Tabs/Tabs.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Tabs/Tabs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/slider/MySlider.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Slider/MySlider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/slider/mySlider.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/components/Slider/mySlider.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +41,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../auth" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../warmer_front" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -71,7 +77,10 @@
       <workItem from="1605947334880" duration="86000" />
       <workItem from="1605947463812" duration="1009000" />
       <workItem from="1606108070358" duration="29926000" />
-      <workItem from="1606508468306" duration="10310000" />
+      <workItem from="1606508468306" duration="13544000" />
+      <workItem from="1606991147511" duration="2020000" />
+      <workItem from="1607013774965" duration="2227000" />
+      <workItem from="1613498996678" duration="343000" />
     </task>
     <servers />
   </component>
